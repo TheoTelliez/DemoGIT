@@ -1,4 +1,4 @@
 def hello():
-	print("Bonjour DEV2 !")
+	print("Bonjour on se situe sur la branche develop !")
 
 hello()
